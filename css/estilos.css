@@ -46,7 +46,7 @@ body {
     justify-content: center;
     height: calc(100vh - 43px);
     font-family: 'Montserrat'sans-serif;
-    background: url("/img/background.png");
+    background: url("../img/background.png");
 
 }
 
